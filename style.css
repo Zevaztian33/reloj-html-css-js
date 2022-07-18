@@ -33,7 +33,7 @@ body{
     width: 100%;
 }
 .reloj{
-    font-family: Oswald, Arial;
+    font-family:'Times New Roman', Times, serif
     text-align: center;
     font-size: 4em;
     background: rgba(0, 0, 0, .5);
